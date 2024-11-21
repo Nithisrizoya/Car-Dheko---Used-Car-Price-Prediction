@@ -28,15 +28,15 @@ We have historical data on used car prices from CarDekho, including various feat
 
 **Tools Used**
 
- Jupyter Notebook and Pycharm - IDE
+ * Jupyter Notebook and Pycharm - IDE
  
- Python, Pandas, Matplotlib, Seaborn - Data cleaning, exploratory data analysis
+ * Python, Pandas, Matplotlib, Seaborn - Data cleaning, exploratory data analysis
  
- Scikit-learn - Machine Learning
+ * Scikit-learn - Machine Learning
  
- Scipy - Optimization
+ * Scipy - Optimization
  
- Stream Lit - Visualization
+ * Streamlit - Visualization
  
 **Approach:**
 
