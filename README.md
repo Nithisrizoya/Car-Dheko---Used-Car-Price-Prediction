@@ -134,6 +134,9 @@ From this XGBoost gives high accuracy, so we can choose the XGBoost Model.
 **Results:**
 
 1.A functional and accurate machine learning model for predicting used car prices.
+
 2.Comprehensive analysis and visualizations of the dataset.
+
 3.Detailed documentation explaining the methodology, models, and results.
+
 4.An interactive Streamlit application for real-time price predictions based on user input.
