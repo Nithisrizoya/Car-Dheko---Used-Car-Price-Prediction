@@ -11,7 +11,7 @@ Real-time prediction of used car prices using Machine Learning models and Stream
 * Model Deployment
 * Streamlit Application Development
 * Documentation and Reporting
-* 
+ 
 **Domain**
   
   Automotive Industry , Data Science, Machine Learning
